@@ -1,0 +1,106 @@
+{
+    "assets": [
+        {
+            "file": "1002200060858.jpg",
+            "id": 1002200060858,
+            "ccscid": 1322362364229849099,
+            "name": "Azure Archipelago"
+        },
+        {
+            "file": "1065846225394.jpg",
+            "id": 1065846225394,
+            "ccscid": 1322362371070754876,
+            "name": "Cursed Cove"
+        },
+        {
+            "file": "569457556228.jpg",
+            "id": 569457556228,
+            "ccscid": 1322362365215375541,
+            "name": "Crimson Tidepool"
+        },
+        {
+            "file": "181209246506.jpg",
+            "id": 181209246506,
+            "ccscid": 1322362366083465306,
+            "name": "Crystal Crevasse"
+        },
+        {
+            "file": "725645549519.jpg",
+            "id": 725645549519,
+            "ccscid": 1322362367061000203,
+            "name": "Frozen Fjords"
+        },
+        {
+            "file": "104862101364.jpg",
+            "id": 104862101364,
+            "ccscid": 1322362368453251134,
+            "name": "Golden Glade"
+        },
+        {
+            "file": "122586156750.jpg",
+            "id": 122586156750,
+            "ccscid": 1322362369967657031,
+            "name": "Obsidian Outcrop"
+        },
+        {
+            "file": "324073967986.jpg",
+            "id": 324073967986,
+            "ccscid": 1322362371968204812,
+            "name": "Starlit Basin"
+        },
+        {
+            "file": "585816345799.jpg",
+            "id": 585816345799,
+            "ccscid": 1322362373046009875,
+            "name": "Sulfur Springs"
+        },
+        {
+            "file": "117505157757.jpg",
+            "id": 117505157757,
+            "ccscid": 1322362373570433107,
+            "name": "The Abyssal Depths"
+        },
+        {
+            "file": "334509181123.jpg",
+            "id": 334509181123,
+            "ccscid": 1322362374858215495,
+            "name": "Tranquil Lake"
+        },
+        {
+            "file": "367488203394.jpg",
+            "id": 367488203394,
+            "ccscid": 1322563646793977866,
+            "name": "Twisted Trench"
+        },
+        {
+            "file": "50741799551.jpg",
+            "id": 50741799551,
+            "ccscid": 1322362375520915499,
+            "name": "Twilight Grotto"
+        },
+        {
+            "file": "711163004538.jpg",
+            "id": 711163004538,
+            "ccscid": 1322362376930066548,
+            "name": "Volcanic Verge"
+        },
+        {
+            "file": "1041000782618.jpg",
+            "id": 1041000782618,
+            "ccscid": null,
+            "name": "Wraith Waters"
+        },
+        {
+            "file": "unassigned0.jpg",
+            "id": null,
+            "ccscid": null,
+            "name": null
+        },
+        {
+            "file": "unassigned1.jpg",
+            "id": null,
+            "ccscid": null,
+            "name": null
+        }
+    ]
+}
